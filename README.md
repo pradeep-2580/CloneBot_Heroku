@@ -20,7 +20,7 @@
 - [Host it to Qovery](https://www.qovery.com/)
 - [Host it to Clever-Cloud](https://www.clever-cloud.com)
 - [Host it to Scalingo](https://scalingo.com)
-- [Host it to Heroku](https://www.heroku.com/deploy)
+- [Host it to Heroku](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/pradeep-2580/CloneBot_Heroku)
 - [Host it to Okteto](https://www.okteto.com)
 
 #### ❌ Drawbacks
